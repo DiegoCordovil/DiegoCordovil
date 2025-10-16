@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Diego da Silva Cordovil
+# 👋 Olá, eu sou Diego da Silva Cordovil 
 
 Sou um **Programador Front-End** em transição de carreira e estudante de **Desenvolvimento Fullstack**, apaixonado por criar **interfaces modernas, funcionais e intuitivas**, que ofereçam uma **experiência de usuário excepcional**.  
 Tenho grande interesse em tecnologias web e estou constantemente **aprendendo e aplicando novas ferramentas** para construir projetos de alta qualidade seguindo **boas práticas de desenvolvimento**.
@@ -25,18 +25,10 @@ Aqui estão alguns projetos que demonstram minhas habilidades e aprendizado:
 - **[Projeto 2](link-do-projeto)** – Descrição breve, tecnologias usadas, resultados alcançados.
 - **[Projeto 3](link-do-projeto)** – Descrição breve, tecnologias usadas, aprendizado principal.
 
-> Obs.: Inclua links para repositórios do GitHub ou demos hospedados.
+
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-</div>
-
----
 
 ## 📫 Contato
 
