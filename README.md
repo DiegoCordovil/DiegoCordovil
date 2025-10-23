@@ -34,9 +34,9 @@ Aqui estão alguns projetos que demonstram minhas habilidades e aprendizado:
 
 Estou aberto a **oportunidades de Front-End** e desafios de desenvolvimento. Você pode me contatar via:
 
-- LinkedIn: [Seu LinkedIn](link-do-linkedin)  
-- Email: seuemail@example.com  
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+- LinkedIn:  www.linkedin.com/in/diego-cordovil
+- Email: diegosilvacordovil1989@gmail.com 
+  
 
 ---
 
