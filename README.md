@@ -17,17 +17,6 @@ Além disso, estou expandindo meus conhecimentos em **Frameworks modernos**, com
 
 ---
 
-## 💻 Projetos em Destaque
-
-Aqui estão alguns projetos que demonstram minhas habilidades e aprendizado:
-
-- **[Projeto 1](link-do-projeto)** – Descrição breve, tecnologias usadas, foco no que foi entregue.
-- **[Projeto 2](link-do-projeto)** – Descrição breve, tecnologias usadas, resultados alcançados.
-- **[Projeto 3](link-do-projeto)** – Descrição breve, tecnologias usadas, aprendizado principal.
-
-
-
----
 
 
 ## 📫 Contato
